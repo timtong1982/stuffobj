@@ -1,0 +1,26 @@
+{
+  "name": "stuff-obj",
+  "version": "0.0.1",
+  "description": "Stuff a typescript interface/class ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timtong1982/stuffobj.git"
+  },
+  "author": "acatdev@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timtong1982/stuffobj/issues"
+  },
+  "homepage": "https://github.com/timtong1982/stuffobj#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-typescript": "^4.0.1",
+    "merge2": "^1.2.1",
+    "typescript": "2.6.2"
+  }
+}
